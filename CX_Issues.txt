@@ -1,0 +1,8 @@
+Hotline_Cases:
+
+No failure reason for negative cases (50%)
+
+Inbound Reporting: Table looks incomplete no disposition 
+
+Need disposition across CX
+
